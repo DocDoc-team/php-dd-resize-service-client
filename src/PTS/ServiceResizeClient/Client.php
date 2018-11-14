@@ -21,7 +21,7 @@ class Client
     /** @var string */
     protected $format = 'jpg';
     /** @var int */
-    protected $quality = 85;
+    protected $quality = 90;
 
     /**
      * @param string $serviceUrl
