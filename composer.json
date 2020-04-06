@@ -1,5 +1,5 @@
 {
-    "name": "alexpts/php-resize-service-client",
+    "name": "docdoc/php-resize-service-client",
     "description": "PHP client for http resize service",
     "homepage": "https://github.com/DocDoc-team/php-dd-resize-service-client",
     "license": "MIT",
