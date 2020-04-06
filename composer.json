@@ -1,7 +1,7 @@
 {
     "name": "alexpts/php-resize-service-client",
     "description": "PHP client for http resize service",
-    "homepage": "https://github.com/alexpts/php-resize-service-client",
+    "homepage": "https://github.com/DocDoc-team/php-dd-resize-service-client",
     "license": "MIT",
     "type": "library",
     "authors": [{

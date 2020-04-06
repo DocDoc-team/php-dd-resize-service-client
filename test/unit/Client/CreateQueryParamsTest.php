@@ -42,7 +42,7 @@ class CreateQueryParamsTest extends TestCase
         $base = [
             'path' => '',
             'format' => 'jpg',
-            'q' => 85
+            'q' => 90
         ];
 
         return [
